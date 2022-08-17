@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9c618c34.css","mappings":"AAAA,4BACE,YACF,CAEA,+BAGE,uBAA2B,CAD3B,WAAY,CADZ,iBAGF","sources":["components/FeedbackOptions/FeedbackOptions.module.css"],"sourcesContent":[".btn {\n  display: flex;\n}\n\n.button {\n  margin-right: 15px;\n  height: 30px;\n  box-shadow: 2px 3px #888888;\n}"],"names":[],"sourceRoot":""}
