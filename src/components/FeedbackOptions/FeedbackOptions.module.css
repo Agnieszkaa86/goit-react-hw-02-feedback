@@ -1,0 +1,9 @@
+.btn {
+  display: flex;
+}
+
+.button {
+  margin-right: 15px;
+  height: 30px;
+  box-shadow: 2px 3px #888888;
+}
